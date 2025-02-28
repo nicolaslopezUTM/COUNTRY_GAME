@@ -1,0 +1,182 @@
+h1 {
+    margin: 0;
+    margin-bottom: 10px;
+    padding: .2%;
+    width: 100%;
+    height: 10%;
+    font-size: large;
+    text-align: justify;
+    background-color:   #E5E4E2 ;
+    color: #27221f;
+    font-size: 32px;
+    font-weight: 550;
+    font-style: normal;
+    text-decoration: none;
+    transition: background-color 0.5s, color 0.5s, transform 0.5s;
+}
+
+a {
+    text-decoration: none;
+}
+h1:hover {
+    background-color: #27221f;
+    color: #E5E4E2;
+    transform: scale(1.07) translate(2px, 2px);
+}
+
+body{
+    color: #27221f;
+    background-color:  #E5E4E2 ;
+    font-family: "Arial Narrow", Helvetica, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+}
+
+.pannelButton {
+    color: #E5E4E2;
+    background-color: #27221f;
+    margin: 10px 0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    white-space: normal;
+    transition: background-color 0.3s, color 0.3s, transform 0.3s;
+    font-family: "Arial Narrow", Helvetica, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+
+}
+
+.pannelButton:hover {
+    background-color: E5E4E2;
+    color: #27221f;
+    transform: scale(1.05) translate(2px, 2px);
+}
+
+@keyframes flash {
+    0% { 
+        background-color: #E5E4E2;
+        border-color:#27221f
+    }
+    50% {
+        background-color: #27221f;
+        border-color:#E5E4E2 }
+    100% {
+        background-color: #E5E4E2;
+        border-color:#27221f
+    }
+}
+
+
+    
+
+#countryInput {
+    background-color: #E5E4E2;
+    border: 2px solid #27221f;
+    font-family: "Arial Narrow", Helvetica, sans-serif;
+    font-size: 18px;
+    color: #27221f;
+    caret-color: #27221f;
+    padding: 5px;
+    outline: none;
+}
+
+#countryInput:not(:focus) {
+    animation: flash 2.5s infinite; /* Apply flash animation when not focused */
+}
+
+
+
+
+#wrapper {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items:start;
+    height: 1000px;
+    overflow: auto;
+}
+
+.pannel {
+    width: 12.5%;
+    outline: 2px solid  #E5E4E2;
+    outline-offset: -4px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 5%;
+    min-height: 100px;
+    background-color: #27221f;
+    color: #E5E4E2;
+
+}
+#mapContainer {
+    margin: auto;
+    margin-top: 0;
+    width: 70%;
+}
+
+#map {
+    margin: 0;
+    width: 100%; 
+    border: 3px solid #27221f;
+    border-radius: 2.5%; 
+    padding: 10px; 
+    height: 500px; 
+    background-image: radial-gradient(circle, #002D62, #0066b2, #6699CC);
+
+}
+
+#buttonContainer {
+    margin: auto; 
+    margin-top: 30px; 
+    margin-bottom: 10px; 
+    width: 50%; 
+    text-align: center;
+    color: #E5E4E2;
+}
+
+#list_count {
+    margin: 0; 
+    padding: 10px;
+    text-align: justify;
+    width: 100%;
+}
+
+.sticker {
+    color: #E5E4E2;
+    background-color: rgba(39, 34, 31, 0.8);
+    font-family: "Arial Narrow", Helvetica, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    border: none;
+    box-shadow: none;
+    cursor: none;
+    position: relative;
+    padding: none;
+}
+
+.leaflet-tooltip-top:before, 
+.leaflet-tooltip-bottom:before, 
+.leaflet-tooltip-left:before, 
+.leaflet-tooltip-right:before {
+    border: none;
+}
+
+a.leaflet-control-zoom-in,
+a.leaflet-control-zoom-out {
+  color: #E5E4E2 !important;
+  background-color: #27221f !important;
+}
+
+
+a.leaflet-control-zoom-in:hover,
+a.leaflet-control-zoom-out:hover
+ {
+    color: #27221f !important;
+    background-color: #E5E4E2 !important;
+}
+

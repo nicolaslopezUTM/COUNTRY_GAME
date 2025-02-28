@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GIS JAVASCRIPT EXERCISE</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <link rel="stylesheet" href="style.css" />
+    
+</head>
+<a href="">
+<h1 id="header">
+    GIS JAVASCRIPT EXERCISE
+  
+</h1>
+</a>
+
+<body>
+    
+    <div id="wrapper">
+        <div id="leftpannel" class="pannel">
+            Choose mode:
+            <input type="button" class="pannelButton" value="Africa" onclick="updateMap(value)"/>
+            <input type="button" class="pannelButton" value="Asia" onclick="updateMap(value)"/>
+            <input type="button" class="pannelButton" value="Europe" onclick="updateMap(value)"/>
+            <input type="button" class="pannelButton" value="North and Central America" onclick="updateMap(value)"/>
+            <input type="button" class="pannelButton" value="Oceania" onclick="updateMap(value)"/>
+            <input type="button" class="pannelButton" value="South America" onclick="updateMap(value)"/>
+            <input type="button" class="pannelButton" value="World" onclick="updateMap(value)"/>
+        </div>
+        <div id="mapContainer">
+        <div id="map"></div>
+        <div  id="buttonContainer">
+            <input type="text" id ="countryInput" oninput="changeColour(this)" />
+            <div id="timer">10:00</div>
+            <div id="count"></div>
+        </div>
+        <div id="list_count"></div>
+        </div>
+        <div id="rightpannel", class="pannel">
+            Views:
+        </div>
+        
+    </div>
+
+    
+
+    
+    
+    
+</body>
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script src="script2.0.js"></script>
+
+</html>
