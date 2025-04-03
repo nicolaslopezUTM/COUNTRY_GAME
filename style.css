@@ -29,7 +29,7 @@ body{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 30px;
+    font-size: 16pt;
 }
 
 .pannelButton {
@@ -44,7 +44,7 @@ body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 20px;
+    font-size: 12pt;
 
 }
 
@@ -75,7 +75,7 @@ body{
     background-color: #E5E4E2;
     border: 2px solid #27221f;
     font-family: "Arial Narrow", Helvetica, sans-serif;
-    font-size: 18px;
+    font-size: 12pt;
     color: #27221f;
     caret-color: #27221f;
     padding: 5px;
@@ -150,7 +150,7 @@ body{
     font-family: "Arial Narrow", Helvetica, sans-serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 20px;
+    font-size: 18pt;
     border: none;
     box-shadow: none;
     cursor: none;
