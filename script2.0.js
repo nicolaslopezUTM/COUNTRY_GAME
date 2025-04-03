@@ -296,5 +296,15 @@ function resetTooltips() {
      tooltip_layers = []
 };
 
+function darkMode() {
+    var bodyElement = document.body;
+    bodyElement.classList.toggle("dark-mode");
+    
+    var h1Elements = document.querySelectorAll("h1");
+    h1Elements.forEach(function(h1Element) {
+        h1Element.classList.toggle("dark-mode");
+    });
+}
+
 
 toolBox();   
