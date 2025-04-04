@@ -21,10 +21,18 @@
     <body>
         <div id="wrapper">
             <div id="leftpannel" class="pannel">
-                <input type="button" class="pannelButton" value="Access Nicolas' CV" onclick="document.location='cvpage.html'"/>
-                <input type="button" class="pannelButton" value="Nicolas' Story Map" onclick="document.location='https://arcg.is/vPfGm1'"/>
-                <input type="button" class="pannelButton" value="Take a break, play a game" onclick="document.location='guess_the_country.html'"/>
-                </div>
+                    <div class="hover-container">
+                    <input type="button" class="pannelButton" value="CV"/>
+                        <div class="options">
+                            <a href="cvpage.html">View CV</a>
+                            <a href="Nicolas Lopez CV.pdf">Download PDF</a>
+                            <a href="Nicolas Lopez CV.odt">Download DOCX</a>
+                            <a href="Nicolas Lopez CV.txt">Download TXT</a>
+                        </div>
+                    </div>
+                    <input type="button" class="pannelButton" value="Story Map" onclick="document.location='https://arcg.is/vPfGm1'"/>
+                    <input type="button" class="pannelButton" value="Game" onclick="document.location='guess_the_country.html'"/>
+            </div>
             <div class="introduction">
                 <p style="margin: 0;">
                     Nicolas Lopez is a GIS Analyst passionate about geo-data, scripting and remote sensing techonologies.
@@ -40,7 +48,8 @@
                  
             </div>
         <div class="footer">
-            <p>© All rights reserved.</p>
+            <p style="margin-bottom: 0;">lopeznicolas1198@gmail.com</p>
+            <p style="margin-top: 0;">© All rights reserved.</p>
         </div>
     </body>
 
