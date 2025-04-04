@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Nicolas Lopez - GIS Specialist</title>
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -10,25 +12,31 @@
         <link rel="icon" type="image/x-icon" href="icon.png">
         
     </head>
-    <h1 id="header" style="width: 80%;">
-        <img src="icon.png" alt="Nicolas Lopez Logo, a multi-coloured gridded glob" style="width:50px">
-        Nicolas Lopez - GIS Specialist
-    </h1>
+    <a href="index.html">
+        <h1 id="header">
+            Nicolas Lopez
+            <img src="icon.png" alt="Nicolas Lopez Logo, a multi-coloured gridded glob" style="width:50px">
+            GIS Specialist
+        </h1>
+        </a>
     
     <body>
         <div id="wrapper">
             <div id="leftpannel" class="pannel">
-                <input type="button" class="pannelButton" value="Access Nicolas' CV" onclick="document.location='cvpage.html'"/>
+                <div class="hover-container">
+                <input type="button" class="pannelButton" value="Access Nicolas' CV"/>
+                    <div class="options">
+                        <a href="cvpage.html">View CV</a>
+                        <a href="LOPEZ, Nicolas - CV - RGS.pdf">Download PDF</a>
+                        <a href="#">Download DOCX</a>
+                        <a href="#">Download TXT</a>
+                    </div>
+                </div>
                 <input type="button" class="pannelButton" value="Nicolas' Story Map" onclick="document.location='https://arcg.is/vPfGm1'"/>
                 <input type="button" class="pannelButton" value="Take a break, play a game" onclick="document.location='guess_the_country.html'"/>
                 </div>
                 <iframe src="Lopez Nicolas CV.htm" class="introduction" style="height: 600px;;background-color: #E5E4E2;"></iframe> 
-        <div id="darkmodeButton">Dark Mode:
-            <label class="switch">
-                <input type="checkbox" onclick="darkMode()">
-                <span class="slider round"></span>
-            </label>
-        </div>
+
         <div class="footer">
             <p style="margin-bottom: 0;">lopeznicolas1198@gmail.com</p>
             <p style="margin-top: 0;">© All rights reserved.</p>

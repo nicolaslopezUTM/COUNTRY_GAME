@@ -135,7 +135,6 @@ async function updateMap(continent) {
     document.getElementById("list_count").innerHTML = ""
     document.getElementById("buttonContainer").style.color = "black";
     document.getElementById("buttonContainer").style.fontWeight = 400;
-    document.getElementById("header").innerText = "GUESS THE COUNTRY: " + continent;
     document.getElementById("rightpannel").innerHTML = continents[continent].view_panel
 };
 

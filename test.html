@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .button-container {
+            position: relative;
+            display: inline-block;
+        }
+
+        .options {
+            display: none;
+            position: absolute;
+            top: 100%;
+            left: 0;
+            background-color: white;
+            border: 1px solid #ccc;
+            z-index: 1;
+        }
+
+        .options a {
+            display: block;
+            padding: 8px;
+            text-decoration: none;
+            color: black;
+        }
+
+        .options a:hover {
+            background-color: #f1f1f1;
+        }
+
+        .button-container:hover .options {
+            display: block;
+        }
+    </style>
+    <title>Hover Button Options</title>
+</head>
+<body>
+    <div class="button-container">
+        <button>Hover me</button>
+        <div class="options">
+            <a href="#">View CV</a>
+            <a href="#">Download PDF</a>
+            <a href="#">Download DOCX</a>
+            <a href="#">Download TXT</a>
+        </div>
+    </div>
+</body>
+</html>
