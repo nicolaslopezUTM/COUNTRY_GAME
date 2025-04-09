@@ -6,33 +6,52 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@100..900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="styletest.css" />
     
 </head>
 <a href="index.html">
-<h1 id="header">
-    Nicolas Lopez
-    <img src="icon.png" alt="Nicolas Lopez Logo, a multi-coloured gridded glob" style="width:50px">
-    GIS Specialist
-</h1>
+    <h1 id="header">
+
+        <a href="index.html">
+        Nicolas Lopez
+        <img src="icon.png" alt="Nicolas Lopez Logo, a multi-coloured gridded glob" style="width:50px">
+        GIS Specialist
+        </a>
+
+    </h1>
 </a>
 
 <body>
+
+    <div class="button-pannel">
+        <div class="hover-container">
+            <input type="button" class="pannelButton" value="CV"/>
+                <div class="options">
+                    <a href="cvpage.html">View CV</a>
+                    <a href="Nicolas Lopez CV.pdf">Download PDF</a>
+                    <a href="Nicolas Lopez CV.odt">Download DOCX</a>
+                    <a href="Nicolas Lopez CV.txt">Download TXT</a>
+                </div>
+        </div>
+
+            <input type="button" value="Story Map" onclick="document.location='https://arcg.is/vPfGm1'"/>
+            <input type="button" value="Game" onclick="document.location='guess_the_country.html'"/>
+    </div>
     
     <div id="wrapper">
-        <div id="leftpannel" class="pannel">
+        <div class="pannel">
             Choose mode:
-            <input type="button" class="pannelButton" value="Africa" onclick="updateMap(value)"/>
-            <input type="button" class="pannelButton" value="Asia" onclick="updateMap(value)"/>
-            <input type="button" class="pannelButton" value="Europe" onclick="updateMap(value)"/>
-            <input type="button" class="pannelButton" value="North and Central America" onclick="updateMap(value)"/>
-            <input type="button" class="pannelButton" value="Oceania" onclick="updateMap(value)"/>
-            <input type="button" class="pannelButton" value="South America" onclick="updateMap(value)"/>
-            <input type="button" class="pannelButton" value="World" onclick="updateMap(value)"/>
+            <input type="button" value="Africa" onclick="updateMap(value)"/>
+            <input type="button" value="Asia" onclick="updateMap(value)"/>
+            <input type="button" value="Europe" onclick="updateMap(value)"/>
+            <input type="button" value="North and Central America" onclick="updateMap(value)"/>
+            <input type="button" value="Oceania" onclick="updateMap(value)"/>
+            <input type="button" value="South America" onclick="updateMap(value)"/>
+            <input type="button" value="World" onclick="updateMap(value)"/>
         </div>
         <div id="mapContainer">
         <div id="map"></div>
-        <div  id="buttonContainer">
+        <div id="buttonContainer">
             <input type="text" id ="countryInput" oninput="changeColour(this)" />
             <div id="timer">10:00</div>
             <div id="count"></div>
