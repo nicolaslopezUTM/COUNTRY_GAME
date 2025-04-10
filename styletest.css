@@ -87,9 +87,10 @@ h1:hover a {
     left: 0;
     background-color: #E5E4E2;
     border: 1px solid #27221f;
-    z-index: 1;
+    z-index: 1000;
     font-size: 12pt;
     width: 100%;
+    min-width: 100px;
 }
 
 .options a {
@@ -182,6 +183,17 @@ h1:hover a {
         width: 15%;
         font-size: 13pt;
     }
+
+    .pannel {
+        display: none;
+    }
+
+    #map {
+        width: 90vw;
+    }
+
+
+
 }
 
 @media (max-width: 600px) {
