@@ -6,13 +6,13 @@ const continents = {
         ],
         "view": [1.6508, 20.0171],
         "zoom": 3,
-        "view_panel": 'Views:\
-        <input type="button" class="pannelButton" value="Home View" onclick="map.setView([6508, 20.0171],3)"/>\
-        <input type="button" class="pannelButton" value="East Africa" onclick="map.setView([5,38],4)"/>\
-        <input type="button" class="pannelButton" value="South Eastern Islands" onclick="map.setView([-20,46],4)"/>\
-        <input type="button" class="pannelButton" value="Southwestern Africa" onclick="map.setView([-8,14],4)"/>\
-        <input type="button" class="pannelButton" value="West Africa" onclick="map.setView([9,2],4)"/> \
-        <input type="button" class="pannelButton" value="Maghreb" onclick="map.setView([30,6],4)"/>'
+        "view_panel": '<b>Views:</b>\
+        <a href="#" onclick="map.setView([6508, 20.0171],3)"/>Home View</a>\
+        <a href="#" onclick="map.setView([5,38],5)"/>East Africa</a>\
+        <a href="#" onclick="map.setView([-20,46],5)"/>South Eastern Islands</a>\
+        <a href="#" onclick="map.setView([-8,14],5)"/>South Western Africa</a>\
+        <a href="#" onclick="map.setView([9,2],5)"/>West Africa</a>\
+        <a href="#" onclick="map.setView([30,6],5)"/>Maghreb</a>'
     },
     "Asia": {
         "bounds": [
@@ -21,10 +21,10 @@ const continents = {
         ],
         "view": [34.0479, 100.6197],
         "zoom": 3,
-        "view_panel": 'Views:\
-        <input type="button" class="pannelButton" value="Home View" onclick="map.setView([34.0479,100.6197],3)"/>\
-        <input type="button" class="pannelButton" value="Arabian Peninsula" onclick="map.setView([28,41],4.25)"/>\
-        <input type="button" class="pannelButton" value="South-East Asia" onclick="map.setView([4,100],4)"/>'
+        "view_panel": '<b>Views:</b>\
+        <a href="#" onclick="map.setView([34.0479,100.6197],3)"/>Home View</a>\
+        <a href="#" onclick="map.setView([28,41],5)"/>Arabian Peninsula</a>\
+        <a href="#" onclick="map.setView([4,100],5)"/>South East Asia</a>'
     },
     "Europe": {
         "bounds": [
@@ -33,12 +33,12 @@ const continents = {
         ],
         "view": [25, 0.2],
         "zoom": 3,
-        "view_panel": 'Views:\
-        <input type="button" class="pannelButton" value="Home View" onclick="map.setView([25, 0.2],3)"/>\
-        <input type="button" class="pannelButton" value="Balkans" onclick="map.setView([41,21],6)"/>\
-        <input type="button" class="pannelButton" value="Northern Europe" onclick="map.setView([60,18],5)"/>\
-        <input type="button" class="pannelButton" value="Western Alps and Pyrenees" onclick="map.setView([46,6],6)"/>\
-        <input type="button" class="pannelButton" value="Mediterranean Sea" onclick="map.setView([30,8],5)"/>'
+        "view_panel": '<b>Views:</b>\
+        <a href="#" onclick="map.setView([25, 0.2],3)"/>Home View</a>\
+        <a href="#" onclick="map.setView([41,21],6)"/>Balkans</a>\
+        <a href="#" onclick="map.setView([60,18],5)"/>Northern Europe</a>\
+        <a href="#" onclick="map.setView([46,6],6)"/>Western Alps and Pyrenees</a>\
+        <a href="#" onclick="map.setView([30,8],5)"/>Mediterranean Sea</a>'
         
     },
     "North and Central America": {
@@ -48,10 +48,10 @@ const continents = {
         ],
         "view": [18.0, -77.0],
         "zoom": 3,
-        "view_panel": 'Views:\
-        <input type="button" class="pannelButton" value="Home View" onclick="map.setView([18.0, -77.0],3)"/>\
-        <input type="button" class="pannelButton" value="Central America" onclick="map.setView([9,-82],5)"/>\
-        <input type="button" class="pannelButton" value="Caribbeans" onclick="map.setView([17,-64],5)"/>'
+        "view_panel": '<b>Views:</b>\
+        <a href="#" onclick="map.setView([18.0, -77.0],3)"/>Home View</a>\
+        <a href="#" onclick="map.setView([9,-82],5)"/>Central America</a>\
+        <a href="#" onclick="map.setView([17,-64],5)"/>Caribbeans</a>'
     },
     "Oceania": {
         "bounds": [
@@ -60,9 +60,9 @@ const continents = {
         ],
         "view": [-27.7359, 150.0188],
         "zoom": 3,
-        "view_panel": 'Views:\
-        <input type="button" class="pannelButton" value="Home View" onclick="map.setView([-22.7359, 140.0188],3)"/>\
-        <input type="button" class="pannelButton" value="Pacific Islands" onclick="map.setView([-16,-171],5)"/>'
+        "view_panel": '<b>Views:</b>\
+        <a href="#" onclick="map.setView([-22.7359, 140.0188],3)"/>Home View</a>\
+        <a href="#" onclick="map.setView([-16,-171],5)"/>Pacific Island</a>'
     },
     "South America": {
         "bounds": [
@@ -71,9 +71,9 @@ const continents = {
         ],
         "view": [-14.2350, -51.9253],
         "zoom": 3,
-        "view_panel": 'Views:\
-        <input type="button" class="pannelButton" value="Home View" onclick="map.setView([-22.7359, 140.0188],3)"/>\
-        <input type="button" class="pannelButton" value="Northern South America" onclick="map.setView([5,-70],5)"/>'
+        "view_panel": '<b>Views:</b>\
+        <a href="#" onclick="map.setView([-22.7359, 140.0188],3)"/>Home View</a>\
+        <a href="#" onclick="map.setView([5,-70],5)"/>Northern South America</a>'
     },
     "World": {
         "bounds": [
@@ -82,23 +82,23 @@ const continents = {
         ],
         "view": [30.0,3.0],
         "zoom": 1.55,
-        "view_panel": 'Views:\
-        <input type="button" class="pannelButton" value="Home View" onclick="map.setView([30, 3],1.55)"/>\
-        <input type="button" class="pannelButton" value="East Africa" onclick="map.setView([5,38],4)"/>\
-        <input type="button" class="pannelButton" value="South Eastern Islands" onclick="map.setView([-20,46],4)"/>\
-        <input type="button" class="pannelButton" value="Southwestern Africa" onclick="map.setView([-8,14],4)"/>\
-        <input type="button" class="pannelButton" value="West Africa" onclick="map.setView([9,2],4)"/> \
-        <input type="button" class="pannelButton" value="Maghreb" onclick="map.setView([30,6],4)"/>\
-        <input type="button" class="pannelButton" value="Arabian Peninsula" onclick="map.setView([28,41],4.25)"/>\
-        <input type="button" class="pannelButton" value="South-East Asia" onclick="map.setView([4,100],4)"/>\
-        <input type="button" class="pannelButton" value="Balkans" onclick="map.setView([41,21],6)"/>\
-        <input type="button" class="pannelButton" value="Northern Europe" onclick="map.setView([60,18],5)"/>\
-        <input type="button" class="pannelButton" value="Western Alps and Pyrenees" onclick="map.setView([46,6],6)"/>\
-        <input type="button" class="pannelButton" value="Mediterranean Sea" onclick="map.setView([30,8],5)"/>\
-        <input type="button" class="pannelButton" value="Central America" onclick="map.setView([9,-82],5)"/>\
-        <input type="button" class="pannelButton" value="Caribbeans" onclick="map.setView([17,-64],5)"/>\
-        <input type="button" class="pannelButton" value="Pacific Islands" onclick="map.setView([-16,-171],5)"/>\
-        <input type="button" class="pannelButton" value="Northern South America" onclick="map.setView([5,-70],5)"/>'
+        "view_panel": '<b>Views:</b>\
+        <a href="#" onclick="map.setView([30, 3],1.55)"/>Home View</a>\
+        <a href="#" onclick="map.setView([5,38],5)"/>East Africa</a>\
+        <a href="#" onclick="map.setView([-20,46],5)"/>South Eastern Islands</a>\
+        <a href="#" onclick="map.setView([-8,14],5)"/>South Western Africa</a>\
+        <a href="#" onclick="map.setView([9,2],5)"/>West Africa</a>\
+        <a href="#" onclick="map.setView([30,6],5)"/>Maghreb</a>\
+        <a href="#" onclick="map.setView([28,41],5)"/>Arabian Peninsula</a>\
+        <a href="#" onclick="map.setView([4,100],5)"/>South East Asia</a>\
+        <a href="#" onclick="map.setView([41,21],6)"/>Balkans</a>\
+        <a href="#" onclick="map.setView([60,18],5)"/>Northern Europe</a>\
+        <a href="#" onclick="map.setView([46,6],6)"/>Western Alps and Pyrenees</a>\
+        <a href="#" onclick="map.setView([30,8],5)"/>Mediterranean Sea</a>\
+        <a href="#" onclick="map.setView([9,-82],5)"/>Central America</a>\
+        <a href="#" onclick="map.setView([17,-64],5)"/>Caribbeans</a>\
+        <a href="#" onclick="map.setView([-16,-171],5)"/>Pacific Island</a>\
+        <a href="#" onclick="map.setView([5,-70],5)"/>Northern South America</a>'
     }
 };
 let map;
