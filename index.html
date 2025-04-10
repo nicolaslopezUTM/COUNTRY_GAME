@@ -1,41 +1,34 @@
 <!DOCTYPE html>
 <html>
+
     <head>
         <title>Nicolas Lopez - GIS Specialist</title>
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@100..900&display=swap" rel="stylesheet">
-        <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-        <link rel="stylesheet" href="styletest.css" />
-        <link rel="icon" type="image/x-icon" href="icon.png">
-        
+        <link rel="stylesheet" href="style/style.css" />
+        <link rel="icon" type="image/x-icon" href="image/icon.png">
     </head>
-   
-        <h1 id="header">
-
-            <a href="index.html">
-            Nicolas Lopez
-            <img src="icon.png" alt="Nicolas Lopez Logo, a multi-coloured gridded glob" style="width:50px">
-            GIS Specialist
-            </a>
-
-        </h1>
     
     <body>
+        <h1>
+            <a href="index.html">
+            Nicolas Lopez
+            <img src="image/icon.png" alt="Nicolas Lopez Logo, a multi-coloured gridded glob" style="width:50px">
+            GIS Specialist
+            </a>
+        </h1>
 
         <div class="button-pannel">
             <div class="hover-container">
                 <input type="button" class="pannelButton" value="CV"/>
                     <div class="options">
-                        <a href="cvpage.html">View CV</a>
-                        <a href="Nicolas Lopez CV.pdf">Download PDF</a>
-                        <a href="Nicolas Lopez CV.odt">Download DOCX</a>
-                        <a href="Nicolas Lopez CV.txt">Download TXT</a>
+                        <a href="page/cv.html">View CV</a>
+                        <a href="document/Nicolas Lopez CV.pdf">Download PDF</a>
+                        <a href="document/Nicolas Lopez CV.odt">Download DOCX</a>
+                        <a href="document/Nicolas Lopez CV.txt">Download TXT</a>
                     </div>
             </div>
 
-                <input type="button" class="pannelButton" value="Story Map" onclick="document.location='story.html'"/>
-                <input type="button" class="pannelButton" value="Game" onclick="document.location='guess_the_country.html'"/>
+                <input type="button" value="Story Map" onclick="document.location='page/story.html'"/>
+                <input type="button" value="Game" onclick="document.location='page/game.html'"/>
         </div>
 
         <div class="introduction">
@@ -55,9 +48,9 @@
             </p>
 
             <p>
-                For more detail, see his <a href="cvpage.html">CV</a>. 
-                For more background information visit <a href="https://arcg.is/vPfGm1">the ArcGIS StoryMap</a>.
-                If you need a break, try to remember some countries with <a href="guess_the_country.html">this game</a>.
+                For more detail, see his <a href="page/cv.html">CV</a>. 
+                For more background information visit <a href="page/story.html">the ArcGIS StoryMap</a>.
+                If you need a break, try to remember some countries with <a href="page/game.html">this game</a>.
             </p>
         </div>
 

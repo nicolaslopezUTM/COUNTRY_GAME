@@ -114,7 +114,7 @@ let remainingTime = initialDuration;
 
 async function initialiseMap() {
     map = L.map('map').setView([0,0],1);
-    const geo =  await fetch("WORLD.geojson");
+    const geo =  await fetch("../data/WORLD.geojson");
     geoData = await geo.json();
     lyr = L.geoJSON(geoData).addTo(map);
 };

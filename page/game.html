@@ -1,44 +1,41 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Guess the Coutry</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@100..900&display=swap" rel="stylesheet">
+    <title>Nicolas Lopez - GIS Specialist</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-    <link rel="stylesheet" href="styletest.css" />
+    <link rel="stylesheet" href="../style/style.css" />
+    <link rel="icon" type="image/x-icon" href="image/icon.png">
     
 </head>
-<a href="index.html">
-    <h1 id="header">
 
-        <a href="index.html">
+<body>
+
+    <h1>
+
+        <a href="../index.html">
         Nicolas Lopez
         <img src="icon.png" alt="Nicolas Lopez Logo, a multi-coloured gridded glob" style="width:50px">
         GIS Specialist
         </a>
 
     </h1>
-</a>
-
-<body>
 
     <div class="button-pannel">
         <div class="hover-container">
             <input type="button" class="pannelButton" value="CV"/>
                 <div class="options">
-                    <a href="cvpage.html">View CV</a>
-                    <a href="Nicolas Lopez CV.pdf">Download PDF</a>
-                    <a href="Nicolas Lopez CV.odt">Download DOCX</a>
-                    <a href="Nicolas Lopez CV.txt">Download TXT</a>
+                    <a href="cv.html">View CV</a>
+                    <a href="../document/Nicolas Lopez CV.pdf">Download PDF</a>
+                    <a href="../document/Nicolas Lopez CV.odt">Download DOCX</a>
+                    <a href="../document/Nicolas Lopez CV.txt">Download TXT</a>
                 </div>
         </div>
 
             <input type="button" value="Story Map" onclick="document.location='story.html'"/>
-            <input type="button" value="Game" onclick="document.location='guess_the_country.html'"/>
+            <input type="button" value="Game" onclick="document.location='game.html'"/>
 
             <div class="hover-container" id="continent-small-screen">
-                <input type="button" class="pannelButton" value="Choose Mode"/>
+                <input type="button" value="Choose Mode"/>
                     <div class="options">
                         <a href="#" onclick="updateMap('Africa')">Africa</a>
                         <a href="#" onclick="updateMap('Asia')">Asia</a>
@@ -90,6 +87,6 @@
     
 </body>
 <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-<script src="script2.0.js"></script>
+<script src="../script/script.js"></script>
 
 </html>
