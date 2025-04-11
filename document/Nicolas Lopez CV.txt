@@ -1,7 +1,6 @@
 
-Nicolas Lopez		                      
+Nicolas Lopez               
 GIS Professional
-		                          
 +447450709816 lopeznicolas1198@gmail.com
 visit nicolaslopez.co.uk
 
@@ -18,21 +17,21 @@ French Baccalaureate 2016.
 Professional Membership:
 Royal Geographical Society Associate Fellow.
 Languages:
-English – Fluent.
-French – Native.
+English - Fluent.
+French - Native.
 Software / Skills:
 ESRI Technology (ArcGIS Pro, ArGIS Desktop (ArcMap etc.), QGIS
 Web GIS (ArcGIS Online, ArcGIS Entreprise, Experience Builder, HTML, CSS, JavaScript)
 Script and tool development (Python, R, C#, SQL).
 Data integration Platform FME (Safe Software).
-Remote Sensing Image Processing – MBES Survey Data, Satellite Imagery.
+Remote Sensing Image Processing - MBES Survey Data, Satellite Imagery.
 
 Experience:
 Nicolas, a geospatial analyst, has specialised in Remote Sensing technologies and GIS programming. Since joining Wood, he developed a North-Sea Sustainability Web Map Portal to visualise open-source energy data in North-Sea and North-Western Europe, he optimised large dataset management using Python scripts. He created optimised pipeline routes, borehole maps, and topographic maps for clients. He developed an array of data automation and data visualization scripts, handling raw survey data.
-Wood plc (April 2024 – Present)
+Wood plc (April 2024 - Present)
 * Geospatial analysis of environmental, geographical and physical constraints to support:
-* Multiple H2 and CO2 pipelines routing feasibility study in a Blue and Green Hydrogen Projects.
-* Wind, solar and hydrogen concessions creation.
+- Multiple H2 and CO2 pipelines routing feasibility study in a Blue and Green Hydrogen Projects.
+- Wind, solar and hydrogen concessions creation.
 * Creation and maintenance of GIS Web Services. 
 * Data analysis and organising and structuring geospatial data (raster and vector).
 * Client communication and negotiation.
@@ -40,7 +39,7 @@ Wood plc (April 2024 – Present)
 * Creation of high-quality maps for client deliverables.
 * Writing of extensive Routing Study Report, Feasibility Reports and Data Processing Report.
 * Processing of raw Multi-Beam Echosounder remote sensing data. 
-MSc GIS (January 2023 – December 2023)
+MSc GIS (January 2023 - December 2023)
 University Conservation Projects Geospatial analysis of environmental and ecological activity constraints to determine an area for wildlife conservation on behalf of the Estate of the University of Aberdeen. This area was determined using advanced Map Algebra, Raster Analysis, Multi-Criteria Analysis and Fuzzy Analysis.
 Other University Projects Geospatial analysis of environmental and commercial constraints to support a railway route selection, dam site selection, a farm development project. These projects required geospatial analysis of Remote Sensing data (Satellite, LIDAR), geoprocessing and map algebra to determine criteria and constraints for site selection, and data organisation and advanced analysis using python scripts.
 
