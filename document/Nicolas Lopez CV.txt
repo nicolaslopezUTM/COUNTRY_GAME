@@ -1,11 +1,10 @@
-
 Nicolas Lopez
-GIS Professional
+GIS Developer
 +447450709816 lopeznicolas1198@gmail.com
 visit nicolaslopez.co.uk
 Summary:
-Industries: Environment, Energy, Renewables, Civil Engineering.
-Areas of Expertise: GIS, Georeferencing, digitising, Remote Sensing, Geoprocessing, Data Management, Python Scripting.
+Industries: GIS, Development, Energy, Renewables, Civil Engineering.
+Areas of Expertise: Python Development, C# Development, Data Management, GIS, Georeferencing, digitising, Remote Sensing, Geoprocessing.
 
 Qualifications:
 MSc (Commendation) in Geographical Information Systems 2023
@@ -17,32 +16,30 @@ Languages:
 English - Fluent.
 French - Native.
 Software / Skills:
+Python Development. Specialised in GIS with expertise knowledge of geospatial open-source libraries (geopandas, rasterio, numpy, shapely fiona)
+SQL database management.
 ESRI Technology (ArcGIS Pro, ArGIS Desktop (ArcMap etc.), QGIS
 Digitising and Georeferencing
-Web GIS (ArcGIS Online, ArcGIS Entreprise, Experience Builder, HTML, CSS, JavaScript)
-Script and tool development (Python, R, C#, SQL).
+Web GIS (ArcGIS Online, ArcGIS Entreprise, Experience Builder, HTML, CSS, JavaScript) and server-end management of geo-data.
 Data integration Platform FME (Safe Software).
 Remote Sensing Image Processing - Survey Data, Satellite Imagery.
 Experience:
-Nicolas, a geospatial analyst, is specialised in Data Management, digitising and GIS programming. Since joining Wood, he developed a North-Sea Sustainability Web Map Portal to visualise open-source energy data in North-Sea and North-Western Europe, he optimised large dataset management using Python scripts. He has created optimised pipeline routes, borehole maps, and topographic maps for clients. He has developed an array of data automation and data visualization scripts, handling raw survey data.
-Wood plc (April 2024 - Present)
-    • Geospatial analysis of environmental, geographical and physical constraints to support:
-    • Multiple H2 and CO2 pipelines routing feasibility study in a Blue and Green Hydrogen Projects.
-    • Wind, solar and hydrogen concessions creation.
-    • Creation and maintenance of GIS Web Services. 
-    • Data analysis and organising and structuring geospatial data (raster and vector).
-    • Client communication and negotiation.
-    • Python Scripting and tool development for geo-data analysis. 
-    • Creation of high-quality maps for client deliverables.
-    • Writing of extensive Routing Study Report, Feasibility Reports and Data Processing Report.
-    • Processing of raw survey remote sensing data. 
+Nicolas, a geospatial analyst, is specialised in Python development, and data management. Since joining Wood, he developed am array of tools and GIS data workflows. He managed multiple GIS databases constantly updated by different stake-holders and clients, through his developed workflows. He regularly communicates with a variety of stakeholders from clients to engineers and has experience explaining and rationalising his decisions. He has a great understanding of geo-data, spatial projections, and their manipulations though python with both open-source library and paid API-based libraries (arcpy). He gained hands-on GIS experience developing a North-Sea Sustainability Web Map Portal to visualise open-source energy data in North-Sea and North-Western Europe. He has created optimised pipeline routes, borehole maps, and topographic maps for clients; he has written data QA reports, routing reports showing his first-hand knowledge of geospatial data.
+Wood plc (April 2024   Present)
+    Python development and C# tool development for geo-data analysis. 
+    Data analysis and creation of workflows and pipelines structuring geospatial data (raster and vector).
+    Geospatial analysis of environmental, geographical and physical constraints to support:
+    Creation and maintenance of GIS Web Services. 
+    Data analysis and organising and structuring geospatial data (raster and vector).
+    Client communication and negotiation.
+    Creation of high-quality maps for client deliverables.
+    Writing of extensive Routing Study Report, Feasibility Reports and Data Processing and QA Report.
+    Processing of raw survey remote sensing data. 
 MSc GIS (January 2023 - December 2023)
-University Conservation Projects Geospatial analysis of environmental and ecological activity constraints to determine an area for wildlife conservation on behalf of the Estate of the University of Aberdeen. This area was determined using advanced Map Algebra, Raster Analysis, Multi-Criteria Analysis and Fuzzy Analysis.
-Other University Projects Geospatial analysis of environmental and commercial constraints to support a railway route selection, dam site selection, a farm development project. These projects required digitising, georeferencing, geospatial analysis of Remote Sensing data (Satellite, LIDAR), geoprocessing and map algebra to determine criteria and constraints for site selection, and data organisation and advanced analysis using python scripts.
-
+University Conservation Projects Geospatial analysis of environmental and ecological activity constraints to determine an area for wildlife conservation on behalf of the Estate of the University of Aberdeen. This area was determined using advanced Map Algebra, Raster Analysis, Multi-Criteria Analysis and Fuzzy Analysis, all data workflows and statistical analysis was conducted using Python.
+Other University Projects Geospatial analysis of environmental and commercial constraints to support a railway route selection, dam site selection, a farm development project. These projects required digitising, georeferencing, geospatial analysis of Remote Sensing data (Satellite, LIDAR), geoprocessing and map algebra to determine criteria and constraints for site selection, and data organisation and advanced analysis using python scripts. Web development using AWS.
 Hospitality (2016-2024): 
-Kitchen worker and Team leader at McDonald?s and Pizza Hut.
-
+Kitchen worker and Team leader at McDonald's and Pizza Hut.
 Other interests:
-Conservation: Social Secretary of the University of Aberdeen Conservation Society.
-Wildlife photography: regularly photographs the avian wildlife of Scotland.
+Rowing.
+Amateur football data analysis.
