@@ -1,45 +1,46 @@
 Nicolas Lopez
-GIS Developer
+GIS Analyst
 +447450709816 lopeznicolas1198@gmail.com
 visit nicolaslopez.co.uk
-Summary:
 Industries: GIS, Development, Energy, Renewables, Civil Engineering.
-Areas of Expertise: Python Development, C# Development, Data Management, GIS, Georeferencing, digitising, Remote Sensing, Geoprocessing.
+Areas of Expertise: ESRI ArcGIS Suite, Programming (Python, SQL), Data Management, WebGIS
 
 Qualifications:
 MSc (Commendation) in Geographical Information Systems 2023
-BSc (2.1) Zoology 2022 (specialising in Ecology).
-French Baccalaureate 2016.
+BSc (2.1) Zoology 2022 (specialising in Ecology)
+French Baccalaureate 2016
 Professional Membership:
-Royal Geographical Society Associate Fellow.
+Royal Geographical Society Associate Fellow
 Languages:
-English - Fluent.
-French - Native.
+English - Fluent
+French - Native
 Software / Skills:
-Python Development. Specialised in GIS with expertise knowledge of geospatial open-source libraries (geopandas, rasterio, numpy, shapely fiona)
-SQL database management.
-ESRI Technology (ArcGIS Pro, ArGIS Desktop (ArcMap etc.), QGIS
-Digitising and Georeferencing
-Web GIS (ArcGIS Online, ArcGIS Entreprise, Experience Builder, HTML, CSS, JavaScript) and server-end management of geo-data.
-Data integration Platform FME (Safe Software).
-Remote Sensing Image Processing - Survey Data, Satellite Imagery.
+ESRI Technology - ArcGIS Pro, ArGIS Desktop ArcGIS Entreprise and Online services. Specialised in Spatial and 3D Analysis and creation and maintenance of Web Applications.
+Python Development - Expert knowledge of the arpy library and geospatial open-source libraries (geopandas, rasterio, shapely, numpy).
+SQL database management and scripting.
+Management of a variety of data types (physical, environmental, routing etc.) both offshore and onshore.
+WebGIS - ArcGIS Online, ArcGIS Entreprise, FieldMaps Experience Builder, HTML, CSS, JavaScript and server-end management of geo-data.
+Cartography - creation of high quality maps and plans.
+Remote Sensing Image Processing - Offshore Survey Data, Satellite Imagery.
+C# Tool development for ESRI technologies.
 Experience:
-Nicolas, a geospatial analyst, is specialised in Python development, and data management. Since joining Wood, he developed am array of tools and GIS data workflows. He managed multiple GIS databases constantly updated by different stake-holders and clients, through his developed workflows. He regularly communicates with a variety of stakeholders from clients to engineers and has experience explaining and rationalising his decisions. He has a great understanding of geo-data, spatial projections, and their manipulations though python with both open-source library and paid API-based libraries (arcpy). He gained hands-on GIS experience developing a North-Sea Sustainability Web Map Portal to visualise open-source energy data in North-Sea and North-Western Europe. He has created optimised pipeline routes, borehole maps, and topographic maps for clients; he has written data QA reports, routing reports showing his first-hand knowledge of geospatial data.
-Wood plc (April 2024   Present)
-    Python development and C# tool development for geo-data analysis. 
-    Data analysis and creation of workflows and pipelines structuring geospatial data (raster and vector).
-    Geospatial analysis of environmental, geographical and physical constraints to support:
-    Creation and maintenance of GIS Web Services. 
+Nicolas, a GIS analyst, is specialised in Python programming, and data management. Since joining Wood, he has developed an array of tools and spatial data workflows. He has managed to the highest standard robust large spatial datasets; regularly updating them with a large variety of data collected from field workers, contractors, clients or  open-source datasets. He has developed and maintained both internal (Entreprise) and external (Online) WebGIS viewers for a variety of offshore and onshore projects (e.g. Overhead Power Line field support, Offshore Hydrogen Pipeline Routing, Onshore Carbon Capture Pipeline Routing). These applications assisted with the visualisation and analysis of complex spatial information. He communicates with a variety of stakeholders, from clients to engineers, and has experience explaining and rationalising his GIS solutions and workflows. He has a great understanding of spatial data, spatial projections, and their manipulations though python with both open-source libraries and paid API-based libraries (arcpy). He has created a variety maps, plans and reports for both internal and external (client) purposes.
+Wood plc (April 2024 - Present)
+    Creation, visualisation and analysis of spatial information through ESRI technologies: ArcGIS Pro (Spatial and 3D extensions), ArcMap, ArcGIS Online, Spatial and 3D extensions.
+    Python development for geo-data analysis. 
+    Data analysis and creation of workflows for structuring geospatial data (raster and vector).
+    Creation and maintenance of GIS Web Services, Entreprise Geodatabases and mobile apps (FieldMaps). 
     Data analysis and organising and structuring geospatial data (raster and vector).
     Client communication and negotiation.
-    Creation of high-quality maps for client deliverables.
-    Writing of extensive Routing Study Report, Feasibility Reports and Data Processing and QA Report.
-    Processing of raw survey remote sensing data. 
-MSc GIS (January 2023 - December 2023)
-University Conservation Projects Geospatial analysis of environmental and ecological activity constraints to determine an area for wildlife conservation on behalf of the Estate of the University of Aberdeen. This area was determined using advanced Map Algebra, Raster Analysis, Multi-Criteria Analysis and Fuzzy Analysis, all data workflows and statistical analysis was conducted using Python.
-Other University Projects Geospatial analysis of environmental and commercial constraints to support a railway route selection, dam site selection, a farm development project. These projects required digitising, georeferencing, geospatial analysis of Remote Sensing data (Satellite, LIDAR), geoprocessing and map algebra to determine criteria and constraints for site selection, and data organisation and advanced analysis using python scripts. Web development using AWS.
-Hospitality (2016-2024): 
-Kitchen worker and Team leader at McDonald's and Pizza Hut.
+    Creation of high-quality maps for client deliverables. 
+    MSc GIS (January 2023 - December 2023)
+    Geospatial analysis of environmental and ecological activity constraints to determine an area for wildlife conservation on behalf of the Estate of the University of Aberdeen.
+    Map Algebra, Raster Analysis, Multi-Criteria Analysis and Fuzzy Analysis.
+    Python Programming
+    Environmental and commercial constraints to support a railway route selection, dam site selection, a farm development project. 
+    Digitising, georeferencing, geospatial analysis of Remote Sensing data (Satellite, LIDAR)
+    WebGIS development using AcrGIS Online, HTML, JS and Leaflet.
+Hospitality (2016 - 2024): 
+Kitchen worker and Team leader at McDonald?s and Pizza Hut.
 Other interests:
-Rowing.
-Amateur football data analysis.
+Rowing, Hiking, Miniature modelling.
