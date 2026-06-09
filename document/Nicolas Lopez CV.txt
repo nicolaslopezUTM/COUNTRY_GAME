@@ -1,47 +1,35 @@
-Nicolas Lopez
-GIS Analyst
-+447450709816 lopeznicolas1198@gmail.com
-visit nicolaslopez.co.uk
-Industries: GIS, Development, Energy, Renewables, Civil Engineering.
-Areas of Expertise: ESRI ArcGIS Suite, Programming (Python, SQL), Data Management, WebGIS
+NICOLAS LOPEZ
+07450709816 lopeznicolas1198@gmail.com nicolaslopez.co.uk  Aberdeen, Scotland
+A proactive and solutions-focused Geospatial Specialist with a track record of delivering high-precision spatial analysis and automation for Nationally Significant Infrastructure Projects. Expert in bridging the gap between complex spatial data and statutory project delivery, with advanced proficiency across QGIS, FME, and the ESRI ecosystem. Proven ability to architect automated ETL pipelines and utilise a wide array of Python libraries to increase operational efficiency. A collaborative professional experienced in working alongside multidisciplinary engineering teams to maintain performant systems and rigorous technical standards.
+TECHNICAL SKILLS:
+    • Automation & ETL: FME (Advanced: Workflow automation and data migration), Python (Advanced: GeoPandas, Rasterio, Shapely, NumPy, PyQGIS, and ArcPy).
+    • GIS Software: QGIS, ArcGIS Pro (Advanced Spatial & 3D Analyst), ArcGIS Enterprise/Online, LandApp, GroundMapper.
+    • Database & Systems: Spatial database design and management, SQL (PostGIS, SQL Server), C# (.NET for ESRI tools).
+    • WebGIS & Cloud: ArcGIS Online/Enterprise, Experience Builder, Field Maps, Leaflet, HTML, CSS, JavaScript.
+    • Analysis & Cartography: High-precision cartographic production for statutory processes, Multi-Criteria Analysis (MCA), LiDAR processing, Topology cleaning and data validation.
+PROFESSIONAL EXPERIENCE:
+Wood group, GIS Analyst, April 2024 to Present 
+    • Workflow Automation: Leveraged FME and Python to automate large-scale GIS workflows, utilising libraries such as GeoPandas and Shapely to transform complex raw data into structured spatial layers, significantly reducing manual processing time.
+    • Infrastructure Delivery: Lead the creation, visualisation, and spatial analysis of complex routing projects, ensuring high-precision data alignment for large-scale utility assets.
+    • Custom Tooling: Developed automation scripts using PyQGIS and ArcPy to streamline data validation and ensure consistency of spatial outputs across multi-disciplinary project teams.
+    • Cross-Functional Collaboration: Work closely with internal teams to ensure that GIS systems, geodatabases, and web services are performant, secure, and fit for purpose.
+    • Statutory Cartography: Produce technically accurate and visually compelling maps and plans to support infrastructure planning.
+    • System Administration: Administer and manage cloud-hosted WebGIS applications, ensuring that real-time spatial data is accessible to multidisciplinary teams and external clients.
+    • Standards & Quality: Take joint ownership of the development of GIS technical standards, ensuring that data management practices across onshore and offshore projects are rigorous and reproducible.
+University of Aberdeen, MSc Geographic Information Systems, Jan 2023 to Dec 2023
+    • Spatial Analysis: Conducted complex geospatial analysis of environmental constraints to inform decision-making for railway route selection and wildlife conservation.
+    • Advanced Modelling: Applied Map Algebra and Fuzzy Analysis to resolve competing commercial and environmental constraints for large-scale land development.
+    • Remote Sensing: Processed LiDAR and Satellite imagery using Rasterio and other geospatial libraries to create high-accuracy base maps for infrastructure planning.
+    • WebGIS Development: Built interactive mapping applications using a combination of ArcGIS Online and custom HTML/JS (Leaflet).
+Hospitality Sector, Team Leader & Kitchen Worker, 2016 to 2024
+Developed essential soft skills in high-pressure environments, including team leadership, rapid problem-solving, and meticulous attention to detail in fast-paced operational settings.
 
-Qualifications:
-MSc (Commendation) in Geographical Information Systems 2023
-BSc (2.1) Zoology 2022 (specialising in Ecology)
-French Baccalaureate 2016
-Professional Membership:
-Royal Geographical Society Associate Fellow
-Languages:
-English – Fluent
-French – Native
-Software / Skills:
-ESRI Technology – ArcGIS Pro, ArGIS Desktop ArcGIS Entreprise and Online services. Specialised in Spatial and 3D Analysis and creation and maintenance of Web Applications.
-Python Development – Expert knowledge of the arpy library and geospatial open-source libraries (geopandas, rasterio, shapely, numpy).
-SQL database management and scripting (PostGIS, SQL Server).
-Management of a variety of data types (physical, environmental, routing etc.) both offshore and onshore.
-WebGIS – ArcGIS Online, ArcGIS Entreprise, FieldMaps Experience Builder, HTML, CSS, JavaScript (Leaflet) and server-end management of geo-data.
-Cartography – creation of high quality maps and plans.
-Remote Sensing Image Processing – Offshore Survey Data, Satellite Imagery.
-C# Tool development for ESRI technologies.
-Experience:
-Nicolas, a GIS analyst, is specialised in geospatial analysis with the ESRI Suite, and data management. Since joining Wood, he has developed an array of tools and spatial data workflows. He has managed to the highest standard robust large spatial datasets; regularly updating them with a large variety of data collected from field workers, contractors, clients or open-source datasets. He has developed and maintained both internal (Entreprise) and external (Online) WebGIS viewers for a variety of offshore and onshore projects (e.g. Overhead Power Line field support, Offshore Hydrogen Pipeline Routing, Onshore Carbon Capture Pipeline Routing). These applications assisted with the visualisation and analysis of complex spatial information. He communicates with a variety of stakeholders, from clients to engineers, and has experience explaining and rationalising his GIS solutions and workflows. He has a great understanding of spatial data, spatial projections, and their manipulations though python with both open-source libraries and paid API-based libraries (arcpy). He has created a variety maps, plans and reports for both internal and external (client) purposes.
-Wood plc (April 2024 – Present)
-    • Creation, visualisation and analysis of spatial information through ESRI technologies: ArcGIS Pro (Spatial and 3D extensions), ArcMap, ArcGIS Online, Spatial and 3D extensions.
-    • Python development for geo-data analysis. 
-    • Data analysis and creation of workflows for structuring geospatial data (raster and vector).
-    • Creation and maintenance of GIS Web Services, Entreprise Geodatabases and mobile apps (FieldMaps). 
-    • Data analysis and organising and structuring geospatial data (raster and vector).
-    • Client communication and negotiation.
-    • Creation of high-quality maps, presentations and reports for client deliverables. 
-    • 
-MSc GIS (January 2023 – December 2023)
-    • Geospatial analysis of environmental and ecological activity constraints to determine an area for wildlife conservation on behalf of the Estate of the University of Aberdeen.
-    • Map Algebra, Raster Analysis, Multi-Criteria Analysis and Fuzzy Analysis.
-    • Python Programming
-    • Environmental and commercial constraints to support a railway route selection, dam site selection, a farm development project. 
-    • Digitising, georeferencing, geospatial analysis of Remote Sensing data (Satellite, LIDAR)
-    •  WebGIS development using AcrGIS Online, HTML, JS and Leaflet.
-Hospitality (2016 – 2024): 
-Kitchen worker and Team leader at McDonald?s and Pizza Hut.
-Other interests:
-Rowing, Hiking, Miniature modelling.
+EDUCATION & QUALIFICATIONS
+MSc in Geographical Information Systems (Commendation), 2023
+BSc (2.1) Zoology (Specialising in Ecology), 2022
+French Baccalaureate, 2016
+PROFESSIONAL MEMBERSHIPS & LANGUAGES
+Royal Geographical Society: Associate Fellow
+Languages: English (Fluent), French (Native)
+INTERESTS
+Rowing, Hiking, Miniature Modelling.
